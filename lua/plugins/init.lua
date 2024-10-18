@@ -5,6 +5,11 @@ return {
     opts = require "configs.conform",
   },
 
+  {
+    "github/copilot.vim",
+    lazy = false
+  },
+
   -- lightspeed.nvim
   {
     'ggandor/lightspeed.nvim',
