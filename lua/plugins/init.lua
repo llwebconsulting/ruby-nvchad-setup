@@ -9,6 +9,7 @@ return {
     "github/copilot.vim",
     lazy = false
   },
+
   -- lightspeed.nvim
   {
     'ggandor/lightspeed.nvim',
